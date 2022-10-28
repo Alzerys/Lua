@@ -1,7 +1,7 @@
 -- SetAlias
 -- ตัว requests แต่ละ ตัวรันจะไม่เหมือนกันนะครับ เช่นของผม syn x ก็เป็นแบบนี้ครับ แต่ขแงตัวรันอื่น ผมรู้แค่บางตัวนะครับ เช่น Krnl Fluxus Trigon
 -- Krnl : request
--- Fluxus : fuxus.request
+-- Fluxus : fluxus.request
 -- trigon : request
 
 local http = syn.request({
